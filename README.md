@@ -5,7 +5,7 @@
 
 ## Hey There!
 
-My name is Chad Cotton, I am Backend Developer working at American Fidelity in Oklahoma City, OK.
+My name is Chad Cotton, I am a Software Engineer working at American Fidelity in Oklahoma City, OK.
 
 ## My Stack
 
